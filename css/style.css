@@ -222,6 +222,7 @@
 .page-header {
     background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/a.png) center center no-repeat;
     background-size: cover;
+    height: 50vh;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
